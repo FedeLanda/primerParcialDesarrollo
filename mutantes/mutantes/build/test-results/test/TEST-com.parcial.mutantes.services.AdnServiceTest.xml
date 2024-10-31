@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.parcial.mutantes.services.AdnServiceTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-10-16T23:27:09" hostname="DESKTOP-JRHN0BC" time="1.89">
+  <properties/>
+  <testcase name="testAnalyzeAdn_WithNewSequence()" classname="com.parcial.mutantes.services.AdnServiceTest" time="1.739"/>
+  <testcase name="testSecondaryRightDiagonals()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.012"/>
+  <testcase name="testNoMutante()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.011"/>
+  <testcase name="testMainDiagonals()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.011"/>
+  <testcase name="testTertiaryLeftDiagonals()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.009"/>
+  <testcase name="testRows()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.009"/>
+  <testcase name="testSecondaryLeftDiagonals()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.008"/>
+  <testcase name="testTertiayRightDiagonals()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.008"/>
+  <testcase name="testColimns()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.01"/>
+  <testcase name="testMutant1()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.01"/>
+  <testcase name="testMutant2()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.011"/>
+  <testcase name="testAnalyzeAdn_WithExistingSequence()" classname="com.parcial.mutantes.services.AdnServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
